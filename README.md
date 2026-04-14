@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @OskiModder
-- 👀 I’m interested in ... learning c
+- 👀 I’m interested in ... learning c and html
 - 📫 How to reach me ... idk
 - 😄 Pronouns: ... he/him 
 
